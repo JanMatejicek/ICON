@@ -1,0 +1,10 @@
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\bin\Debug\Úkol_3.exe.config
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\bin\Debug\Úkol_3.exe
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\bin\Debug\Úkol_3.pdb
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\obj\Debug\Úkol_3.Form1.resources
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\obj\Debug\Úkol_3.Properties.Resources.resources
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\obj\Debug\Úkol_3.csproj.GenerateResource.cache
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\obj\Debug\Úkol_3.csproj.CoreCompileInputs.cache
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\obj\Debug\Úkol_3.exe
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\obj\Debug\Úkol_3.pdb
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_3\Úkol_3\obj\Debug\Úkol_3.csproj.AssemblyReference.cache
